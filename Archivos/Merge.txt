@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hernando Montes
 19 años
 Mis aspiraciones con la materia, es poder desarrollar mi logica y ampliar mis conocimientos como desarrollador
+
+No hubo ningun problema con hacer el commit y subir la carpeta
+
+Es importante tener cuidado con modificar 2 archivos al tiempo, porque no se esta teniendo en cuenta los cambios que cada archivo esta teniendo, por ende, puedo estar trabajando con una parte en especifica del archivo y creando nuevas ordenes con esta parte, y en la modificacion que se hace del mismo archivo por otra parte, puede que se haya eliminado estas partes que se han utilizado para las nuevas ordenes
+
